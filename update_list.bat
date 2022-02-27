@@ -1,0 +1,1 @@
+call winhhtpjs.bat "https://raw.githubusercontent.com/mtxset/ua-force/master/list.txt" -saveTo "./list.txt"
