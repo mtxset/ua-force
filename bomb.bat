@@ -1,2 +1,2 @@
 @echo off
-bombardier.exe -d 5s http://ya.ru
+bombardier.exe -c 125 -n 125 -d 5s --fasthttp -t 1s %1
