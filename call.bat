@@ -1,0 +1,1 @@
+call winhhtpjs.bat "https://raw.githubusercontent.com/palahsu/DDoS-Ripper/main/headers.txt" -saveTo "./header.txt"
